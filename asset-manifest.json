@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/puttingittogether/static/css/main.073c9b0a.css",
+    "main.js": "/puttingittogether/static/js/main.e977160b.js",
+    "static/js/787.bdca4892.chunk.js": "/puttingittogether/static/js/787.bdca4892.chunk.js",
+    "index.html": "/puttingittogether/index.html",
+    "main.073c9b0a.css.map": "/puttingittogether/static/css/main.073c9b0a.css.map",
+    "main.e977160b.js.map": "/puttingittogether/static/js/main.e977160b.js.map",
+    "787.bdca4892.chunk.js.map": "/puttingittogether/static/js/787.bdca4892.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e977160b.js"
+  ]
+}
